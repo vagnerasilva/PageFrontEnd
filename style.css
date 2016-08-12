@@ -1,0 +1,31 @@
+li {
+		color: red;
+		
+	}
+body{
+		background-color: #87CEFA;
+		color: green;
+		font-family: sans-serif;width: 700px; height: 200px}
+
+
+
+
+
+	
+#primeiro-dia{
+		color: red;}
+	
+.item-lista{
+		text-transform: uppercase;
+		
+	}
+
+
+div {
+	background-color: pink;
+	text-align: center;
+
+	border-color: black;
+	border-width: 5px;
+	border-style: dashed;
+}
